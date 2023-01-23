@@ -52,4 +52,4 @@ Ordered (numbered) lists use regular numbers, followed by periods, as list marke
 2.  Green
 3.  Blue
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](/palette.webp)
