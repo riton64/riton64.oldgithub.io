@@ -51,3 +51,5 @@ Ordered (numbered) lists use regular numbers, followed by periods, as list marke
 1.  Red
 2.  Green
 3.  Blue
+
+![Tux, the Linux mascot](/assets/images/tux.png)
